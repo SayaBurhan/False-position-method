@@ -1,6 +1,5 @@
 # False-position-method
 
-
 Python code for False method in Colab:
 https://colab.research.google.com/drive/17QrKFr7yAcAJAi1_j0MFUFD4cuES8fjI?usp=sharing
 
